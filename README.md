@@ -1,5 +1,13 @@
 # PandasTutorials
-#
+Installation Process:
+	step1 :download pip
+	step2 :run get-pip.py
+	step3: install pandas by using below command
+		>pip install pandas
+	step4: install metplotlib 
+		>pip install metplotlib
+	
+
 #pandas.io.data as web
  ##pandas works with many type of datatype different file format like .csv etc
 pd.DataFrame(dictionary)
